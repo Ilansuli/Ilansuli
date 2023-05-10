@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Ilan Sulimanov</h1>
 <h3 align="center">A passionate Fullstack / Frontend developer from Israel</h3>
-<img align="right" alt="coding" width="400" style="border-radius : 10px;" src="https://res.cloudinary.com/dmmsf57ko/image/upload/v1683721494/giphy_f9tujn.gif" />
+<img align="right" alt="coding" width="330" style="border-radius : 10px;" src="https://res.cloudinary.com/dmmsf57ko/image/upload/v1683721494/giphy_f9tujn.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilansuli&label=Profile%20views&color=0e75b6&style=flat" alt="ilansuli" /> </p>
 
 - 🔭 I’m currently working on [Satisfy](https://satisfy.onrender.com/#/station)
