@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ilansuli2147@gmail.com**
 
-- 📄 Know about my experiences by my [CV](https://bronze-noel-87.tiiny.site/)
+- 📄 Know about my experiences by my [CV](https://copper-lena-32.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
