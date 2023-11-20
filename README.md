@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ilansuli2147@gmail.com**
 
-- 📄 Know about my experiences by my [CV](https://copper-lena-32.tiiny.site/)
+- 📄 Know about my experiences by my [CV](https://online.flippingbook.com/view/359549853/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
