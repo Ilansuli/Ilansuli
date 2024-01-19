@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ilansuli2147@gmail.com**
 
-- 📄 Know about my experiences by my [CV](https://online.flippingbook.com/view/359549853/)
+- 📄 Know about my experiences by my [CV](https://drive.google.com/file/d/1Oazoo5q4C29cnz5pm-TotpyVsh0_GgVw/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
