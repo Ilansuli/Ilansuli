@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Fitty - It Will Fit You](https://github.com/Ilansuli/fitty)
   
-- ✅ Check out my latest project [Satisfy](https://satisfy-2v03.onrender.com/#/station)
+- ✅ Check out my latest project [Satisfy](https://satisfy-0-2.onrender.com)
 
 - 📫 How to reach me **ilansuli2147@gmail.com**
 
